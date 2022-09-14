@@ -1,0 +1,15 @@
+C:\Users\caleb\OneDrive\Desktop\Repos\selectionStatementsExercises\Exercise 1\selectionStatementsExercise1\selectionStatementsExercise1\bin\Debug\net6.0\selectionStatementsExercise1.exe
+C:\Users\caleb\OneDrive\Desktop\Repos\selectionStatementsExercises\Exercise 1\selectionStatementsExercise1\selectionStatementsExercise1\bin\Debug\net6.0\selectionStatementsExercise1.deps.json
+C:\Users\caleb\OneDrive\Desktop\Repos\selectionStatementsExercises\Exercise 1\selectionStatementsExercise1\selectionStatementsExercise1\bin\Debug\net6.0\selectionStatementsExercise1.runtimeconfig.json
+C:\Users\caleb\OneDrive\Desktop\Repos\selectionStatementsExercises\Exercise 1\selectionStatementsExercise1\selectionStatementsExercise1\bin\Debug\net6.0\selectionStatementsExercise1.dll
+C:\Users\caleb\OneDrive\Desktop\Repos\selectionStatementsExercises\Exercise 1\selectionStatementsExercise1\selectionStatementsExercise1\bin\Debug\net6.0\selectionStatementsExercise1.pdb
+C:\Users\caleb\OneDrive\Desktop\Repos\selectionStatementsExercises\Exercise 1\selectionStatementsExercise1\selectionStatementsExercise1\obj\Debug\net6.0\selectionStatementsExercise1.csproj.AssemblyReference.cache
+C:\Users\caleb\OneDrive\Desktop\Repos\selectionStatementsExercises\Exercise 1\selectionStatementsExercise1\selectionStatementsExercise1\obj\Debug\net6.0\selectionStatementsExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb\OneDrive\Desktop\Repos\selectionStatementsExercises\Exercise 1\selectionStatementsExercise1\selectionStatementsExercise1\obj\Debug\net6.0\selectionStatementsExercise1.AssemblyInfoInputs.cache
+C:\Users\caleb\OneDrive\Desktop\Repos\selectionStatementsExercises\Exercise 1\selectionStatementsExercise1\selectionStatementsExercise1\obj\Debug\net6.0\selectionStatementsExercise1.AssemblyInfo.cs
+C:\Users\caleb\OneDrive\Desktop\Repos\selectionStatementsExercises\Exercise 1\selectionStatementsExercise1\selectionStatementsExercise1\obj\Debug\net6.0\selectionStatementsExercise1.csproj.CoreCompileInputs.cache
+C:\Users\caleb\OneDrive\Desktop\Repos\selectionStatementsExercises\Exercise 1\selectionStatementsExercise1\selectionStatementsExercise1\obj\Debug\net6.0\selectionStatementsExercise1.dll
+C:\Users\caleb\OneDrive\Desktop\Repos\selectionStatementsExercises\Exercise 1\selectionStatementsExercise1\selectionStatementsExercise1\obj\Debug\net6.0\refint\selectionStatementsExercise1.dll
+C:\Users\caleb\OneDrive\Desktop\Repos\selectionStatementsExercises\Exercise 1\selectionStatementsExercise1\selectionStatementsExercise1\obj\Debug\net6.0\selectionStatementsExercise1.pdb
+C:\Users\caleb\OneDrive\Desktop\Repos\selectionStatementsExercises\Exercise 1\selectionStatementsExercise1\selectionStatementsExercise1\obj\Debug\net6.0\selectionStatementsExercise1.genruntimeconfig.cache
+C:\Users\caleb\OneDrive\Desktop\Repos\selectionStatementsExercises\Exercise 1\selectionStatementsExercise1\selectionStatementsExercise1\obj\Debug\net6.0\ref\selectionStatementsExercise1.dll
