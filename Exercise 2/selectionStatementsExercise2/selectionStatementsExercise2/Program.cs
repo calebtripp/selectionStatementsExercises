@@ -2,8 +2,8 @@
 var favSubj = Console.ReadLine();
 switch (favSubj)
 {
-	case "Coding": // (favSubj == "Coding");
-		Console.WriteLine($"{favSubj} is Nate's favorite subject too!");
+	case "Coding":
+        Console.WriteLine($"{favSubj} is Nate's favorite subject too!");
 		break;
 	case "Physics":
         Console.WriteLine($"{favSubj} is Steph's favorite subject too!");
@@ -18,6 +18,6 @@ switch (favSubj)
         Console.WriteLine($"{favSubj} is Clayton's favorite subject too!");
         break;
     default:
-		Console.WriteLine($"{favSubj}, Really? You really should have picked a more common subject");
+		Console.WriteLine($"{favSubj}, Really? You should have picked a less boring subject");
         break;
 }
